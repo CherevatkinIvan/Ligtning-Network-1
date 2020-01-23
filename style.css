@@ -1,0 +1,54 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+h1{
+	font-size: 5em;
+	padding-top: 100px;
+}
+
+
+h2 {
+	font-size: 1.8em;
+	margin-left: 12%;
+	margin-right: 12%;
+	text-align: center;
+}
+
+nav {
+	display: flex;
+}
+
+nav div {
+	width: 20%;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+nav div p {
+	font-size: 3em;
+	color: green;
+}
+
+.btn1 {
+	width: 20%;
+	background-color: green;
+	color: black;
+	margin-right: 16%;
+	margin-left: 64%;
+	height: 40px;
+	font-size: 1em; 
+}
+
+.container {
+	display: flex;
+	width: 70%;
+	margin-left: 10%;
+	margin-right: 10%;
+	padding-top: 40px;
+}
+
+.logo {
+	width: 25%;
+}
